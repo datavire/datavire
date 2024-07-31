@@ -1,4 +1,4 @@
-![DataViRe](https://dl.datavire.com/assets/images/logo-light.png)
+![DataViRe](https://dl.datavire.com/assets/images/logo-light.svg)
 
 DataViRe is an easy and powerful reporting tool to automate Grafana and Kibana dashboards into comprehensive reports
 
