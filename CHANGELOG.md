@@ -1,3 +1,81 @@
+# v1.10.0 (2025-03-05)
+
+### Features
+	* Provided the options to customize the Date and Time formats based on Orgs.
+	* Added the feature to create the custom report variables
+
+### Bug Fixes
+	* Fixed the issue while connecting SMTP server with no authentication
+
+### Minor Changes
+	* Added few default report variables
+	* Added the support for Grafana upto v11.5.x
+	* Added the support for Kibana upto v8.17.x
+
+# v1.9.1 (2025-01-06)
+
+### Minor Changes
+	* Added the support for Grafana upto v11.4.0
+
+# v1.9.0 (2025-01-04)
+
+### Features
+	* Added the feature to distribute reports via "Slack" app
+	* Added the feature to distribute reports via "WhatsApp"
+	* Added the feature to distribute reports via "MS Teams" app
+	* Added the ability to change the Grafana theme for the report in the report builder
+
+# v1.8.10 (2024-11-19)
+
+### Bug Fixes
+	* Fixed the column issue with Grafana excel reports
+
+# v1.8.9 (2024-11-06)
+
+### Features
+	* Added the support to upload multiple images at same time in report builder
+	* Added the support to fetch and generate panels inside dashboard row for Grafana
+
+### Bug Fixes
+	* Fixed the issue while resetting the report builder after dashboard change
+
+### Minor Changes
+	* Improved the stability throughout the application while loading images
+
+# v1.8.8 (2024-10-20)
+
+### Features
+	* Added support to generate excel and csv reports with multi series(query) panels
+
+# v1.8.7 (2024-10-16)
+
+### Bug Fixes
+	* Fixed the issue in delivering report with No Auth distribution channels 
+
+# v1.8.6 (2024-10-09)
+
+### Bug Fixes
+	* Fixed the issue while connecting Grafana with API key
+
+# v1.8.5 (2024-09-02)
+
+### Minor Changes
+	* Added support for Grafana upto 11.3.x
+	* Added support for Kibana upto 8.15.x
+
+# v1.8.4 (2024-08-20)
+
+### Bug Fixes
+	* Fixed the issue with offline subscription activation
+
+# v1.8.3 (2024-08-13)
+
+### Bug Fixes
+	* Fixed the issue while applying template with all pages
+
+### Minor Changes
+	* Added the support for Grafana upto v11.2.x
+
 # v1.8.2 (2024-07-26)
 
 ### Minor Changes
